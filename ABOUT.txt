@@ -1,0 +1,38 @@
+How to install?
+===============
+
+Linux
+-----
+Execute this command: (sudo) sh oStorybook....bin
+
+Linux Debian
+------------
+Load the package oStorybook...deb
+
+Windows
+-------
+Simply start the installer oStorybook...exe
+
+Mac OS X
+--------
+Load the software with your usual setup tool.
+
+Français
+--------
+
+Linux
+-----
+Executez la commande : (sudo) sh oStorybook....bin
+
+Linux Debian
+------------
+Chargez le paquage oStorybook....deb
+
+Windows
+-------
+Lancez l'exécution de l'installeur oStorybook....exe
+
+Mac OS x
+--------
+Utilsez votre outil d'installation habituel avec oStorybook....tgz
+
